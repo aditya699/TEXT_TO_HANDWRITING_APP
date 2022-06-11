@@ -21,6 +21,17 @@ https://www.youtube.com/channel/UCGKE__9Wmi0udQD5904NvCA
 
   
 ## Project Demo-
+## FRONTEND-
+
+![Capture4](https://user-images.githubusercontent.com/64576351/173172513-6b17c414-c322-4d66-900b-2efeb690f365.JPG)
+
+## INPUT-
+![Capture5](https://user-images.githubusercontent.com/64576351/173172553-17020f0b-a427-4773-be9d-be004eb3fee0.JPG)
+
+
+## OUTPUT-
+
+![Capture8](https://user-images.githubusercontent.com/64576351/173172613-e7911c3f-765d-4ebb-bd32-745948a217bc.JPG)
 
 
 
